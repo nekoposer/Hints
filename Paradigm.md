@@ -1,2 +1,1 @@
-![Paradigm](https://github.com/nekoposer/Hints/assets/148744599/fc6072f1-92f5-4587-ba96-ce6f6f9fa2aa)
-
+![paradigm](https://github.com/nekoposer/Hints/assets/148744599/bb708584-cb57-4e5c-8a0b-5255f8b72807)
